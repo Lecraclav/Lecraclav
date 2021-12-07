@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lecraclav
-- 👀 I’m interested in learn, handcraft, and execute a plan to live with my girlfriend
+- 👀 I’m interested in learn, handcraft, and execute a plan to live traveling around the world
 - 🌱 I’m currently learning .NET, Unity, Swift
 - 💻 I’m looking to collaborate on all that I could, if somebody has time for teach me I will very happy
 - 📫 How to reach me kat.valcarcel@live.com
