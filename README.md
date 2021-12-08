@@ -18,7 +18,7 @@
 </p>
   </br>
   
-### I am a Full stack developer 💻
+### I'm a Full Stack developer 💻
 
 - 👀 I'm insterested in learn... we always learn everyday.
 - 🛠 I like to assemble my own furniture, my own PC and that kind of things.
