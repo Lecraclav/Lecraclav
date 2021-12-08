@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h1 align="center"><b>Hi!, I'm Kat 🦇</b></h1>
+  <h1 align="center"><b>やあ！私はキャットです 🐱 (Kat)</b></h1>
 </p>
 
 
@@ -14,23 +14,23 @@
 <p align="center">
     <a href="/docs/readme_es.md">Español </a>
     ·
-    <a href="/docs/readme_ja.md">日本語</a>
+    <a href="../README.md">English</a>
 </p>
   </br>
   
 ### I am a Full stack developer 💻
 
-- 👀 I'm insterested in learn... we always learn everyday.
-- 🛠 I like to assemble my own furniture, my own PC and that kind of things.
-- 🌱 I'm currently between .NET, Unity, Swift, React, Angular and Xamarin
-- 💻 I’m looking to collaborate on all that I can in order to learn. 
-- 🖥 If somebody wants to include me in their project, I will be very happy. 
-- 🐙 Another account before this: [KatV1](https://github.com/KatV1)
-- 💬 Ask me about anything [here](https://github.com/Lecraclav/Lecraclav/issues)
+- 👀 私は学ぶことに興味があります...私たちはいつも毎日学びます。
+- 🛠 私は自分の家具や自分のPCなどを組み立てるのが好きです。
+- 🌱 私は現在学んでいます：.NET、React、 Unity、Swift、Angular と Xamarin
+- 💻 学ぶためにできることすべてに協力したいと思っています。
+- 🖥 誰かが私を彼らのプロジェクトに含めたいと思ったら、私はとても幸せになります。
+- 🐙 以前のGithub： [KatV1](https://github.com/KatV1)
+- 💬 何でも聞いてください [ここ](https://github.com/Lecraclav/Lecraclav/issues)
 
 ---
 
-### GitHub Stats:
+### GitHubの統計：
 
 <img align="center" alt="Kat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lecraclav&show_icons=true&theme=material-palenight&locale" />
 

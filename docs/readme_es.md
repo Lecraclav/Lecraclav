@@ -1,9 +1,9 @@
 <p align="center">
-    <img align="center" alt="visitors" src="https://raw.githubusercontent.com/Lecraclav/Lecraclav/master/hotdog-batman.gif" width=2500  height= 500/>
+    <img align="center" alt="Batman-hotdog" src="https://raw.githubusercontent.com/Lecraclav/Lecraclav/master/hotdog-batman.gif" width=2500  height= 500/>
 </p>
 
 <p>
-  <h1 align="center"><b>Hi!, I'm Kat 🦇</b></h1>
+  <h1 align="center"><b>¡Hola, soy Kat! 🦇</b></h1>
 </p>
 
 
@@ -12,25 +12,24 @@
 <a href="mailto:kat.valcarcel@live.com?subject=Hi%20Kat"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Outlook_hi-res_icon_%282019%29.svg/1200px-Outlook_hi-res_icon_%282019%29.svg.png" alt="Outlook" height=50/></a>&nbsp;
 </p>
 <p align="center">
-    <a href="/docs/readme_es.md">Español </a>
+    <a href="../README.md">English</a>
     ·
     <a href="/docs/readme_ja.md">日本語</a>
 </p>
   </br>
   
-### I am a Full stack developer 💻
+### Soy una desarrolladora Fullstack 💻
 
-- 👀 I'm insterested in learn... we always learn everyday.
-- 🛠 I like to assemble my own furniture, my own PC and that kind of things.
-- 🌱 I'm currently between .NET, Unity, Swift, React, Angular and Xamarin
-- 💻 I’m looking to collaborate on all that I can in order to learn. 
-- 🖥 If somebody wants to include me in their project, I will be very happy. 
-- 🐙 Another account before this: [KatV1](https://github.com/KatV1)
-- 💬 Ask me about anything [here](https://github.com/Lecraclav/Lecraclav/issues)
+- 👀 Me interesa aprender... siempre se aprende.
+- 🛠 Soy «manitas», sé de todo un poco, me gusta armar mis propios muebles, mi propia PC y esas cosas.
+- 🌱 Actualmente estoy entre .NET, Unity, Swift, React, Angular y Xamarin
+- 💻 Para aprender, busco colaborar en todo lo que pueda. Estaré feliz si alguien me incluye en su proyecto y me da experiencia.
+- 🐙 Otra cuenta anterior que creé antes de tener esta: [KatV1](https://github.com/KatV1)
+- 💬 Pregúntame algo [aquí](https://github.com/Lecraclav/Lecraclav/issues)
 
 ---
 
-### GitHub Stats:
+### Estatus en GitHub:
 
 <img align="center" alt="Kat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lecraclav&show_icons=true&theme=material-palenight&locale" />
 
