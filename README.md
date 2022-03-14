@@ -27,7 +27,7 @@
 - 🖥 If somebody wants to include me in their project, I will be very happy. 
 - 🐙 Another account before this: [KatV1](https://github.com/KatV1)
 - 💬 Ask me about anything [here](https://github.com/Lecraclav/Lecraclav/issues)
-- ⚡ Fun fact: Like to drink a lot of cocoa 🥛🍫
+- ⚡ Fun fact: Like photography, design and to drink a lot of cocoa 🥛🍫
 
 ---
 
