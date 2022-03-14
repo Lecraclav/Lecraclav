@@ -22,7 +22,7 @@
 
 - 👀 I'm insterested in learn... we always learn everyday.
 - 🛠 I like to assemble my own furniture, my own PC and that kind of things.
-- 🌱 I'm currently between .NET, Unity, Swift, React, Angular and Xamarin
+- 🌱 I'm currently between .NET, Unity, Swift, React, Angular, Xamarin and Node.js
 - 💻 I’m looking to collaborate on all that I can in order to learn. 
 - 🖥 If somebody wants to include me in their project, I will be very happy. 
 - 🐙 Another account before this: [KatV1](https://github.com/KatV1)
