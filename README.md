@@ -25,7 +25,7 @@
 - 🌱 I'm currently between .NET, Unity, Swift, React, Angular, Xamarin and Node.js
 - 💻 I’m looking to collaborate on all that I can in order to learn. 
 - 🖥 If somebody wants to include me in their project, I will be very happy. 
-- 🐙 Another account before this: [KatV1](https://github.com/KatV1)
+- 🐙 Another account before this: [katvaldev](https://github.com/katvaldev)
 - 💬 Ask me about anything [here](https://github.com/Lecraclav/Lecraclav/issues)
 - ⚡ Fun fact: Like photography, design and to drink a lot of cocoa 🥛🍫
 
