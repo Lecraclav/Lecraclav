@@ -8,9 +8,10 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/katvalcarcel/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height=50 alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:kat.valcarcel@live.com?subject=Hi%20Kat"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Outlook_hi-res_icon_%282019%29.svg/1200px-Outlook_hi-res_icon_%282019%29.svg.png" alt="Outlook" height=50/></a>&nbsp;
+<a href="https://www.linkedin.com/in/katvalcarcel/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=50 alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:3bvrvhfxz@mozmail.com?subject=Hi%20Kat"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Correo" height=50/></a>&nbsp;
 </p>
+</br>
 <p align="center">
     <a href="/docs/readme_es.md">Español </a>
     ·
